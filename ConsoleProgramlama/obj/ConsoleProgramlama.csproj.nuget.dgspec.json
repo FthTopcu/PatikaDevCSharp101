@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\90531\\Desktop\\c# 101\\ConsoleProgramlama\\ConsoleProgramlama.csproj": {}
+    "C:\\Users\\90531\\Desktop\\PatikaDevC101\\ConsoleProgramlama\\ConsoleProgramlama.csproj": {}
   },
   "projects": {
-    "C:\\Users\\90531\\Desktop\\c# 101\\ConsoleProgramlama\\ConsoleProgramlama.csproj": {
+    "C:\\Users\\90531\\Desktop\\PatikaDevC101\\ConsoleProgramlama\\ConsoleProgramlama.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\90531\\Desktop\\c# 101\\ConsoleProgramlama\\ConsoleProgramlama.csproj",
+        "projectUniqueName": "C:\\Users\\90531\\Desktop\\PatikaDevC101\\ConsoleProgramlama\\ConsoleProgramlama.csproj",
         "projectName": "ConsoleProgramlama",
-        "projectPath": "C:\\Users\\90531\\Desktop\\c# 101\\ConsoleProgramlama\\ConsoleProgramlama.csproj",
+        "projectPath": "C:\\Users\\90531\\Desktop\\PatikaDevC101\\ConsoleProgramlama\\ConsoleProgramlama.csproj",
         "packagesPath": "C:\\Users\\90531\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\90531\\Desktop\\c# 101\\ConsoleProgramlama\\obj\\",
+        "outputPath": "C:\\Users\\90531\\Desktop\\PatikaDevC101\\ConsoleProgramlama\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\90531\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
